@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">TandemScroll Sample App</string>
+	<string name="example1">TandemScrollView Example</string>
+	<string name="example2">TandemListView Example</string>
+	<string name="summary">Try it in Portrait and Landscape</string>
+	<string name="entry_name">List %1$d Entry %2$d </string>
+	
+</resources>

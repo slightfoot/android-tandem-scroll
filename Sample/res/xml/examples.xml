@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+	<Preference
+		android:summary="@string/summary"
+		android:title="@string/example1"
+		>
+		<intent
+			android:targetClass="com.demondevelopers.tandemscrollsample.ExampleActivity1"
+			android:targetPackage="com.demondevelopers.tandemscrollsample"
+			/>
+	</Preference>
+	<Preference
+		android:summary="@string/summary"
+		android:title="@string/example2"
+		>
+		<intent
+			android:targetClass="com.demondevelopers.tandemscrollsample.ExampleActivity2"
+			android:targetPackage="com.demondevelopers.tandemscrollsample"
+			/>
+	</Preference>
+</PreferenceScreen>
